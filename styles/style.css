@@ -33,7 +33,8 @@ body {
 }
 .header-container {
     display: flex;
-    width: 1444зч;
+    width: 100%;
+    min-width: 1444px;
     padding-top: 104px;
     padding-left: 133px;
     padding-right: 133px;
