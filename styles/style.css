@@ -30,6 +30,7 @@ ul {
 }
 body {
     font-family: "League Spartan", sans-serif;
+
 }
 .header-container {
     display: flex;
@@ -89,6 +90,9 @@ body {
     display: block;
     margin-top: -144px;
     margin-left: -55px;
+}
+.main{
+    min-width: 1444px;
 }
 .popular-title {
     text-align: center;
